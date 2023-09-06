@@ -1,1 +1,1 @@
-# OOP_Lab_Mid_Exam
+## Cinema hall seat booking system using Python OOP
